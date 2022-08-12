@@ -114,15 +114,15 @@
 
   **File**表
 
-  ![](https://i.bmp.ovh/imgs/2022/08/11/ea7b8ff3a68c2043.png) 
+  ![](https://s3.bmp.ovh/imgs/2022/08/12/5bce21594d4de3e7.png)  
 
   **Ucenter_member**表
 
-  ![](https://i.bmp.ovh/imgs/2022/08/11/0a37b713cf19b4dc.png) 
+  ![](https://s2.loli.net/2022/08/12/ypUxsr4ZjF7Dhqw.png)
 
   **User_dir**表
 
-  ![](https://i.bmp.ovh/imgs/2022/08/11/b5c66c9af84c9443.png) 
+  ![](https://s2.loli.net/2022/08/12/H4yi6x8ugRfaXYJ.png)
 
   - **登录接口**
 
@@ -138,11 +138,11 @@
 
       返回接口格式，形如`return R.ok().data("token", token).data("mem",mem);`
 
-      ![](https://i.bmp.ovh/imgs/2022/08/11/a0b3469a4ac1928f.png) 
+      ![](https://s2.loli.net/2022/08/12/o3SkF5l694Rf2st.png) 
 
       **登陆成功后返回参数：**
 
-      ![](https://i.bmp.ovh/imgs/2022/08/11/2b990d4d29917122.png) 
+      ![](https://s2.loli.net/2022/08/12/usezfiawGQqyVK5.png)
 
   - **注册接口**
 
@@ -172,7 +172,7 @@
       //password:密码
       ```
 
-  - **用户信息更新接口 **
+  - **用户信息更新接口**
 
     - 基本信息
 
