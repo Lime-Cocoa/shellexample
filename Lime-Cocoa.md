@@ -156,7 +156,7 @@
 
       传参接口格式，
 
-      ```json
+      ```java
       {
           "avatar":"string"
           "code":"string"
